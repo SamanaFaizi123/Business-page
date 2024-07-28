@@ -40,7 +40,7 @@
     margin-top: 6px;
     margin-left: 190px;
     border: 5px solid rgb(210, 206, 206);
-   background-color: aliceblue;
+ 
     
 }.text{
     width: 64%;
@@ -98,7 +98,7 @@
    position:absolute;
    bottom: -390px;
    margin-bottom: 120px;
-   left: 165px;
+   left: 166px;
    
 }.text4 h4{
     margin-top: 25px;
