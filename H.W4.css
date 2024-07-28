@@ -5,13 +5,13 @@
 }header{
     width: 100%;
     background-color: grey;
-    height: 95px;
+    height: 96px;
 }header h1,header span{
     vertical-align:middle;
     color: white;
     display: inline-block;
     margin: 0;
-    padding: 25px;
+    padding: 26px;
     
 } .sp{
     margin-left: 850px;
